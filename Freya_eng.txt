@@ -3,12 +3,16 @@
 ### Translated by Rita Chupalov
 
 >Translator's notice:
-> The original Russian text used for this translation is [here](https://kostia.me/scifi/freyja/). Note that this is still work in progress and there are some notes and technical markup of the text that will be removed in the final version. Most measurement units in the text were converted into imperial system. 
+> The original Russian text used for this translation is 
+[here](https://kostia.me/scifi/freyja/). Note that this is still work 
+in progress and there are some notes and technical markup of the text that 
+will be removed in the final version. Most measurement units in the text 
+were converted into imperial system. 
 
 
 We were travelling around Iceland clockwise. We wanted to spend the
 third night in Akureyri but all the hotels and hostels were full. After
-traveling another 30 miles north along the left side of the fjord
+traveling another 50 kilometers north along the left side of the fjord
 we found a room in a white two-story house with colorful runners on
 the floor, creaky wooden stairs, and a gauze canopy over the bed. The
 bathroom boasted a white chair with carved armrests. That was
@@ -182,7 +186,7 @@ She got up again and went to the counter.
 "Would you like the check?" asked the bartender still talking to me. {17}
 
 
-Marit stood literally three feet away from him. She waved and
+Marit stood literally one meter away from him. She waved and
 clapped her hands, whistled a couple of times and even sang a few
 lines from a lively Norwegian song. The bartender didn't as much as
 twitch. He didn't get any response from me, smiled again briefly and
@@ -203,8 +207,8 @@ She bought me a vodka nevertheless and I sipped it - whether out of
 politeness or out of fear of the unknown that sat in front of me in
 the form of an invisible Norwegian woman, I wasn't sure. Her performance
 at the counter still could be explained by earlier collusion with the
-bartender, a stupid practical joke. But her appearance on the bench a
-foot and a half away from me as if out of thin air... I looked at her
+bartender, a stupid practical joke. But her appearance on the bench half
+a meter away from me as if out of thin air... I looked at her
 awaiting explanations.
 
 And unfortunately I got them. {19}
@@ -314,8 +318,8 @@ brook hoping to get out of the fog sooner or later. In places where boulders
 did not let me walk on the shore I waded right in the water. The brook was
 very shallow.
 
-The fog thickened. Soon the visibility reduced to twenty feet or
-so. As it happens in such cases, I felt that the world shrunk and became
+The fog thickened. Soon the visibility reduced to about seven meters.
+As it happens in such cases, I felt that the world shrunk and became
 empty, that there was neither village nor mountains nor sky but only me
 and the endless brook wiggling between grass and rocks. {28}
 
@@ -324,7 +328,7 @@ out of the gorge and to the plane and wouldn't lead me out of the fog, but rathe
 from the hill which I wanted to climb. I stopped in doubt. The hill
 with the mysterious building should be on the left, but I was afraid
 to climb the rocky slope of the gorge in this thick fog. On the
-other hand I was pretty sure that a hundred feet up the slope the fog
+other hand I was pretty sure that some thirty or fourty meters up the slope the fog
 would end and the slope become less steep.
 
 When I finally decided and made the first step through the water towards the left shore
@@ -805,7 +809,7 @@ a small one.
 They saw each other on weekends when Katla didn't have school or work
 in the town. In the Trollaskagi valleys by the Skagafjord horses are
 born and live free under the broad sky. Sometimes they go tens of
-miles away from their winter stables. Katla saddled good-hearted Mauni
+kilometers away from their winter stables. Katla saddled good-hearted Mauni
 right after breakfast to reach the herd by noon.{68}
 
 She took with her sandwiches with sheep cheese and a two-liter thermos
@@ -868,7 +872,7 @@ She dismounted and pulled the telescope out of the backpack. Then she
 fixed it on the tripod and pointed it down into the valley.
 
 It wasn't hard to find Freya. The chestnut filly with a white mark stood
-about sixty feet away from the closest horse. She was on the left
+about twenty meters away from the closest horse. She was on the left
 flank of the herd close to the shore of a brook that crossed the
 valley. The sun was setting behind a mountain and its shadow was
 approaching the brook from the other side.
@@ -923,7 +927,7 @@ white mark on the lovely face. She was telling Freya about things that had
 happened in the town and in the world since the last time they'd seen
 each other.
 
-After dark Katla took her backpack and climbed three hundred feet up
+After dark Katla took her backpack and carefully climbed about one hundred meters up
 the nearby slope. She found a convenient ledge and set up the
 telescope. She put on all the warm clothes into which it was packed.
 She turned on the camera, pulled out her phone and checked her
@@ -951,8 +955,8 @@ Katla did not want Freya to be put under saddle. When Gisli, the local horse
 trainer came and her mother began to list the young horses to be
 trained that year, Katla interrupted her. {80}
 
-"Father says that nobody will buy her anyway," she said. "She is 4
-feet tall, she stumbles, and has a flabby belly. Why should Gisli waste 
+"Father says that nobody will buy her anyway," she said. "She is one meter fifteen 
+centimeters tall, she stumbles, and has a flabby belly. Why should Gisli waste 
 his time on her? Why harass her for nothing? Just let her be."
 
 Mother smiled and shook her head.
@@ -1009,7 +1013,7 @@ school in New York. But his parents did not own herds of horses. They
 did not even have a house. His father was a fisherman in
 Seidisfjordur, his mother sorted fish in Dalvik.
 
-"Four feet is not the end of the world," said Gisli. "I remember
+"One meter fifteen is not the end of the world," said Gisli. "I remember
 Freya. She is a solid horse. I'll work with her for a while and she
 will be good either for Landsmót or for Sweden." {85}
 
@@ -1074,7 +1078,7 @@ Freya turned around and walked in small steps toward the waterfall.
 Katla ran after her.
 
 They crossed the corral together and stopped at the fence. Now the
-water column roared and smoked within just thirty feet from them.
+water column roared and smoked within just ten meters from them.
 Katla winced - her face tingled under the fine icy spray. {90}
 
 A rocky stretch a few steps wide was soaking between the fence and the
@@ -1478,7 +1482,7 @@ and took his violin with him as usual. Bjarni says it was a regular
 evening, nothing unusual. They played some music, drank a bit,
 chatted about things. Driving under the influence was next in the plans.
 I mean Sigmundur got into his car soon after midnight and drove home
-along the usual completely familiar road. Just over two miles."{124}
+along the usual completely familiar road. Three and a half kilometers."{124}
 
 "Did he crash?!" gasped Katla. "On that turn above the steep slope by
 the brook?"
@@ -1728,7 +1732,7 @@ By the end of the second week Katla felt that she was about to start
 fantasizing herself. Five times she drove Sokki to the road turn where 
 S happened. She climbed up all the surrounding slopes. She walked 
 three times down the stream bed all the way to the sea and once she 
-walked a mile and a half up to the stream source where it flowed from 
+walked 2 kilometers up to the stream source where it flowed from 
 under a thick ice deposit that did not melt away even in July. No clues 
 anywhere. 
 
@@ -1838,8 +1842,8 @@ left of it and looked down. {152}
 
 The craggy slope was almost vertical. In her head Katla inserted into the 
 gorge a triangle supported by the line starting at the turtle rock and poking its acute 
-vertex into the stream on the bottom. Once more she calculated the length 
-of the hypotenuse - the slope. It was about 100 feet or slightly more. 
+vertex into the stream on the bottom. Once more she estimated the length 
+of the hypotenuse - the slope. It was about 35 meters. 
 Quite enough to break Sugmundur's old neck. But where was the body then if 
 the flood didn't and couldn't happen? 
 
@@ -1887,7 +1891,7 @@ bread to Sokki. "Looks like I gave him all I had."
 the edge? Just in case." 
 
 Katla obediently took three steps away from the cliff. Now Sigmundur was 
-very close, just a few feet away from her, but she still did not see 
+very close, just one meter from her, but she still did not see 
 anything unusual in the way he looked. 
 
 "Where have you been?" She couldn't hold back her questions. "What happened? 
@@ -2432,7 +2436,7 @@ I made the last step and what I was afraid of immediately happened:
 everything had changed. Or rather I noticed that everything had changed. 
 There were no ten-story-high walls around me anymore. The stream became 
 stronger and narrower and ran along a mountain valley that was bending 
-skyward in the distance, at least a third of a mile in each 
+skyward in the distance, at least half a kilometer in each 
 direction. Just ten steps ahead the stream disappeared under a thick 
 layer of ice that was barring the valley for as far as one could see. In the 
 broad open sky above my head twinkled the sparse July stars whose names I 
@@ -2612,7 +2616,7 @@ and the playground built by the Baba Yaga's personal carpenter. {207}
 
 I did not move until she was lost in darkness. Then I turned around and 
 walked toward the hotel that looked like an old lady's house. It was very 
-close by, three hundred feet or so but it took me fifteen minutes to get 
+close by, one hundred meters or so but it took me fifteen minutes to get 
 there because I kept stopping and almost broke into a run right next to the 
 porch. {208} 
 
